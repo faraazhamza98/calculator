@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Calculator.ExamPage"
+             Title="Excercise For Practice"
+              BackgroundColor="White">
+    <VerticalStackLayout>
+        <Label x:Name="questionText" TextColor="Black" FontSize="70" HorizontalTextAlignment="Center" FontAttributes="Bold" Margin="30"></Label>
+        <Button Margin="20" BackgroundColor="BlueViolet" TextColor="Black" WidthRequest="250" x:Name="optionOneBtn" Clicked="optionBtn_Clicked"></Button>
+        <Button Margin="20" BackgroundColor="BlueViolet" TextColor="Black" WidthRequest="250" x:Name="optionTwoBtn" Clicked="optionBtn_Clicked"></Button>
+        <Button Margin="20" BackgroundColor="BlueViolet" TextColor="Black" WidthRequest="250" x:Name="optionThreeBtn" Clicked="optionBtn_Clicked"></Button>
+    </VerticalStackLayout>
+</ContentPage>

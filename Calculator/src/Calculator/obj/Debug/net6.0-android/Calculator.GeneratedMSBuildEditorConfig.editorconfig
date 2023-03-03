@@ -1,0 +1,112 @@
+is_global = true
+build_property.TargetFramework = net6.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Calculator
+build_property.ProjectDir = C:\Users\devay\OneDrive\Documents\GitHub\latestHistoryPageChanges\Calculator\src\Calculator\
+
+[C:/Users/devay/OneDrive/Documents/GitHub/latestHistoryPageChanges/Calculator/src/Calculator/AboutTeam.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.AboutTeam.xaml
+build_metadata.AdditionalFiles.TargetPath = AboutTeam.xaml
+build_metadata.AdditionalFiles.RelativePath = AboutTeam.xaml
+
+[C:/Users/devay/OneDrive/Documents/GitHub/latestHistoryPageChanges/Calculator/src/Calculator/AdvanceCalculator.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.AdvanceCalculator.xaml
+build_metadata.AdditionalFiles.TargetPath = AdvanceCalculator.xaml
+build_metadata.AdditionalFiles.RelativePath = AdvanceCalculator.xaml
+
+[C:/Users/devay/OneDrive/Documents/GitHub/latestHistoryPageChanges/Calculator/src/Calculator/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/devay/OneDrive/Documents/GitHub/latestHistoryPageChanges/Calculator/src/Calculator/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/devay/OneDrive/Documents/GitHub/latestHistoryPageChanges/Calculator/src/Calculator/Controls/CardViewUI.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.Controls.CardViewUI.xaml
+build_metadata.AdditionalFiles.TargetPath = Controls\CardViewUI.xaml
+build_metadata.AdditionalFiles.RelativePath = Controls\CardViewUI.xaml
+
+[C:/Users/devay/OneDrive/Documents/GitHub/latestHistoryPageChanges/Calculator/src/Calculator/Controls/HeaderFooterPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.Controls.HeaderFooterPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Controls\HeaderFooterPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Controls\HeaderFooterPage.xaml
+
+[C:/Users/devay/OneDrive/Documents/GitHub/latestHistoryPageChanges/Calculator/src/Calculator/ExamPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.ExamPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ExamPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ExamPage.xaml
+
+[C:/Users/devay/OneDrive/Documents/GitHub/latestHistoryPageChanges/Calculator/src/Calculator/HistoryOfExpresessions.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.HistoryOfExpresessions.xaml
+build_metadata.AdditionalFiles.TargetPath = HistoryOfExpresessions.xaml
+build_metadata.AdditionalFiles.RelativePath = HistoryOfExpresessions.xaml
+
+[C:/Users/devay/OneDrive/Documents/GitHub/latestHistoryPageChanges/Calculator/src/Calculator/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/devay/OneDrive/Documents/GitHub/latestHistoryPageChanges/Calculator/src/Calculator/Resources/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.Resources.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles.xaml
+
+[C:/Users/devay/OneDrive/Documents/GitHub/latestHistoryPageChanges/Calculator/src/Calculator/RightPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.RightPage.xaml
+build_metadata.AdditionalFiles.TargetPath = RightPage.xaml
+build_metadata.AdditionalFiles.RelativePath = RightPage.xaml
+
+[C:/Users/devay/OneDrive/Documents/GitHub/latestHistoryPageChanges/Calculator/src/Calculator/SelectTheme.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.SelectTheme.xaml
+build_metadata.AdditionalFiles.TargetPath = SelectTheme.xaml
+build_metadata.AdditionalFiles.RelativePath = SelectTheme.xaml
+
+[C:/Users/devay/OneDrive/Documents/GitHub/latestHistoryPageChanges/Calculator/src/Calculator/Themes/DarkTheme.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.Themes.DarkTheme.xaml
+build_metadata.AdditionalFiles.TargetPath = Themes\DarkTheme.xaml
+build_metadata.AdditionalFiles.RelativePath = Themes\DarkTheme.xaml
+
+[C:/Users/devay/OneDrive/Documents/GitHub/latestHistoryPageChanges/Calculator/src/Calculator/Themes/GreenTheme.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.Themes.GreenTheme.xaml
+build_metadata.AdditionalFiles.TargetPath = Themes\GreenTheme.xaml
+build_metadata.AdditionalFiles.RelativePath = Themes\GreenTheme.xaml
+
+[C:/Users/devay/OneDrive/Documents/GitHub/latestHistoryPageChanges/Calculator/src/Calculator/Themes/LightTheme.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.Themes.LightTheme.xaml
+build_metadata.AdditionalFiles.TargetPath = Themes\LightTheme.xaml
+build_metadata.AdditionalFiles.RelativePath = Themes\LightTheme.xaml
+
+[C:/Users/devay/OneDrive/Documents/GitHub/latestHistoryPageChanges/Calculator/src/Calculator/Themes/PinkTheme.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.Themes.PinkTheme.xaml
+build_metadata.AdditionalFiles.TargetPath = Themes\PinkTheme.xaml
+build_metadata.AdditionalFiles.RelativePath = Themes\PinkTheme.xaml
+
+[C:/Users/devay/OneDrive/Documents/GitHub/latestHistoryPageChanges/Calculator/src/Calculator/WrongPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.WrongPage.xaml
+build_metadata.AdditionalFiles.TargetPath = WrongPage.xaml
+build_metadata.AdditionalFiles.RelativePath = WrongPage.xaml

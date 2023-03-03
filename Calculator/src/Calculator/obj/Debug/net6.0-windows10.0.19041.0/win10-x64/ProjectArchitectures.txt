@@ -1,0 +1,1 @@
+C:\Users\devay\OneDrive\Documents\GitHub\latestHistoryPageChanges\Calculator\src\Calculator\Calculator.csproj;x64

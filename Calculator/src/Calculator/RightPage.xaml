@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Calculator.RightPage"
+             Title="Correct Answer"
+              BackgroundColor="White">
+    <VerticalStackLayout>
+        <Label 
+            Text="Correct!!"
+            TextColor="Black"
+            FontSize="45"
+            VerticalOptions="Center" 
+            Margin="18"
+            HorizontalOptions="Center" />
+        <Label 
+            Text="Hurray!! Correct answer, Proceed to next question"
+            TextColor="Black"
+            FontSize="45"
+            VerticalOptions="Center" 
+            Margin="18"
+            HorizontalOptions="Center" />
+        <Button Text="Next Question" Clicked="navigateToNextQuestion" Margin="18 " BackgroundColor="BlueViolet" TextColor="Black" WidthRequest="700"/>
+    </VerticalStackLayout>
+</ContentPage>
